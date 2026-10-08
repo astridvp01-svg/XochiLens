@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "nombre_cientifico": "Jacaranda mimosifolia",
+    "nombre_comun": "Jacaranda",
+    "nombre_nahua": "N/D",
+    "morfologia": "Árbol caducifolio de 12 a 15 metros, copa aparasolada, hojas opuestas bipinnadas y flores tubulares de color violeta-azulado.",
+    "ecologia_ciclo": "Floración masiva en primavera antes de la aparición de las hojas. Provee sombra y refugio a polinizadores urbanos en Puebla.",
+    "estatus_ecologico": "Introducida (Exótica adaptada)",
+    "similitud_minima": 75.0
+  },
+  {
+    "id": 2,
+    "nombre_cientifico": "Schinus molle",
+    "nombre_comun": "Pirul / Árbol del Perú",
+    "nombre_nahua": "Meixku",
+    "morfologia": "Árbol perennifolio de tronco torcido, ramas colgantes, hojas aromáticas divididas y pequeños frutos globosos rosados en racimos.",
+    "ecologia_ciclo": "Altamente resistente a la sequía y suelos pobres del Valle de Puebla. Eje fundamental en zonas semiáridas y laderas urbanas.",
+    "estatus_ecologico": "Naturalizada / Nativa de Sudamérica adaptada",
+    "similitud_minima": 75.0
+  },
+  {
+    "id": 3,
+    "nombre_cientifico": "Bassariscus astutus",
+    "nombre_comun": "Cacomixtle / Gato de minería",
+    "nombre_nahua": "Tlacomiztli",
+    "morfologia": "Mamífero pequeño de hábitos nocturnos, pelaje grisáceo-amarillento, grandes ojos oscuros y una cola larga con anillos negros y blancos.",
+    "ecologia_ciclo": "Habita en zonas pedregosas, cañadas y periferias arboladas de Puebla. Controla poblaciones de roedores e insectos.",
+    "estatus_ecologico": "Nativo mexicano / Sujeto a protección especial",
+    "similitud_minima": 75.0
+  }
+]
